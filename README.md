@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<!--
+
 **HoracioDGR22/Horaciodgr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-Soy un tipo productivo 
+-Soy atletico , dinamico y tengo facilidad y experiencia trabajando en equipo 
+
